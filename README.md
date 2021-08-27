@@ -1,4 +1,4 @@
-# hello-word
+# OlaMundo
 Primeiro programa em C# ETEC 2021
 
 **Enunciado:**
